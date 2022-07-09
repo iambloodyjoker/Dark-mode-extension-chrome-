@@ -1,5 +1,5 @@
 # Dark mode extension(for chrome)
-Meet a chrome extension that can change your website from light mood to dark mode
+Meet a chrome extension that can change your website from light mode to dark mode
               ![Screenshot (449)](https://user-images.githubusercontent.com/72223171/178101767-2034e513-4afe-4b2f-8aaa-871a4b5d0cbf.png)
 
 instead of going in settings and finding changing appearance option of web page,we can just do it in a single click with the help of this extension..
